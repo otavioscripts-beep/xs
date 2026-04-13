@@ -1,4 +1,4 @@
-do
+
     local Babix = game.CoreGui:FindFirstChild("ThunderScreen")
     if Babix then
         Babix:Destroy()
